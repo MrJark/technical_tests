@@ -1,0 +1,12 @@
+{
+  "name": "01-node_js",
+  "module": "Ejer_1",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "29.7.0"
+  }
+}
