@@ -1,5 +1,6 @@
 import net from 'node:net'
 
+// Arregla esta función para que el código posterior funcione como se espera:
 // hay que arreglar algo porque ya nos está diciendo que no funciona
 //? Cuando te preguntan que arregles una función que no va SUELE estar el problema en los parámetros
 export const ping = ( ip, callback ) => { //! le faltaba el callback
