@@ -14,7 +14,7 @@ Esta prueba la he sacado del canal de secundario de Midu, [Midulive](https://www
 En la prueba, para que corra, en el *package.json* voy a ir intercambiado la parte del `"module": "Ejer_1",` por el combre de cada uno de los ejercicios para verlo en la consola y que funcione. 
 Ejecutaré el comando `node ejer_1.js` ( en este caso apra el Ejer_1 ) estando dentro en la ruta *NODE/JS/01*
 
-Para los test me ha tocado añadir [Jestjs](https://jestjs.io/docs/getting-started)
+Para los test me ha tocado añadir [SUPERTEST](https://www.npmjs.com/package/supertest) que es la tool que usan en la prueba para que pasen los test y ya te viene inntalada como *dependencia*
 
 ### Ejer. 1 - Arregla esta función para que el código posterior funcione como se espera:
 

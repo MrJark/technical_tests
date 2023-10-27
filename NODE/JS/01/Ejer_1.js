@@ -22,7 +22,3 @@ ping( 'mrjark.com', ( err, info ) => { // no se está ejecutando el callback ( e
   if ( err ) console.error( err )
   else console.log( info )
 } )
-
-export default function Patata () {
-  return 'patata'
-}
